@@ -1,5 +1,6 @@
 package at.mschuster.tools;
 
+//
 /**
  * Represents the template for the output of the game history which the game
  * creates.
