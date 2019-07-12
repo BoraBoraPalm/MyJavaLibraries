@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.BoraBoraPalm</groupId>
 	<artifactId>MyJavaLibraries</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<name>My Java Libraries</name>
 	<description>Libraries written in Java</description>
 	<build>
